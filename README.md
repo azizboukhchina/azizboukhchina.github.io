@@ -1,16 +1,16 @@
-## Hi there 👋
+# Portfolio — Aziz Boukhchina
 
-<!--
-**azizboukhchina/azizboukhchina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Site vitrine professionnel en français, adapté aux ordinateurs et aux téléphones.
 
-Here are some ideas to get you started:
+## Sections
+- Présentation et coordonnées
+- Formation
+- Expérience professionnelle
+- Compétences
+- Langues et centres d'intérêt
+- Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publication
+Pour obtenir l'adresse personnelle `https://azizboukhchina.github.io`, le dépôt doit porter exactement le nom `azizboukhchina.github.io`, puis GitHub Pages doit être activé dans Settings → Pages, source `Deploy from a branch`, branche `main`, dossier `/ (root)`.
+
+Le fichier `CV-Aziz-Boukhchina.pdf` reste à ajouter à la racine pour activer le bouton de téléchargement du CV.
